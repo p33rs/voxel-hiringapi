@@ -1,7 +1,5 @@
 # Hiring API
 
-## About
-
 This is a client written for a the code test at a certain network services company which you may or may not be aware of.
 
 ## Usage
