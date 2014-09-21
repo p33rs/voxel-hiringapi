@@ -14,7 +14,7 @@ class FileReader {
      */
     public static function read($filename) {
         try {
-            if (!file_exists($filename)) {
+            if (!is_readable($filename)) {
                 throw new ClientException('The input file could not be found.');
             }
             $file = fopen($filename, 'r');
