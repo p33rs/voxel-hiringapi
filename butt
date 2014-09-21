@@ -1,8 +1,0 @@
-auth test testpw
-FICKKFff b utt
-set foo bar
-get foo
-set baz bat
-list
-delete foo
-get baz
